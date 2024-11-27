@@ -64,7 +64,7 @@ public class FastCall2 {
         System.out.println();
     }
 
-    // what is genetic class
+    // what is genetic class？   
     static Dyad<int[][], int[]> getBins (int regionStart, int regionEnd, int binSize) {
         int actualChrLength = regionEnd - regionStart;
         //starting from actual genome position
